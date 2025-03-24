@@ -6,7 +6,7 @@ import TodoList from "./Components/TodoList";
 function App() {
   return (
     <>
-      <div className="w-full py-5 px-10">
+      <div className="w-full py-5 px-10 font-Vazir">
         <div className="w-full flex relative gap-6 items-start">
           <Form />
 

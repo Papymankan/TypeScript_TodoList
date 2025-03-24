@@ -1,8 +1,11 @@
 @import "tailwindcss";
 
-body
-{
-    direction: rtl;
+body {
+  direction: rtl;
 
-    @apply bg-gray-800
+  @apply bg-gray-800;
+}
+
+@theme {
+  --font-Vazir: "Vazirmatn", sans-serif;
 }
